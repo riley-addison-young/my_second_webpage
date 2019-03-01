@@ -1,0 +1,21 @@
+body
+{
+    background-color: aliceblue;
+}
+
+p
+{
+    width: 80%;
+    margin: auto;
+    padding-bottom: 1em;
+}
+
+#one
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#two
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
